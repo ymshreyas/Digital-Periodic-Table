@@ -19,7 +19,7 @@ The different parts /functions in the code are:
 
 
 
-## Loading the data into double xircular linked list
+## Loading the data into double circular linked list
 The data structure used in circular double linker list made up of small nodes containing individual spaces for parameters of any element along with pointers named next and previous for storing the address of next and previous linking elements. The globally declared pointers are Start, Cur(Current) and temp. The algorithm for the process of loading is as follows:
 
 Step 1: Create a loop which traverses the file pointer till the EOF.
